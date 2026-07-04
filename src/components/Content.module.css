@@ -1,0 +1,953 @@
+.content {
+	width: 100%;
+	height: 3240px;
+	position: relative;
+	overflow: hidden;
+	flex-shrink: 0;
+	text-align: left;
+	font-size: 15px;
+	color: #000;
+	font-family: Poppins;
+}
+
+.contact {
+	position: absolute;
+	top: 2160px;
+	left: 0px;
+	background: linear-gradient(180deg, #201f1f, #000);
+	width: 1920px;
+	height: 1080px;
+	flex-shrink: 0;
+}
+
+.project {
+	position: absolute;
+	top: 1080px;
+	left: 0px;
+	background: linear-gradient(0deg, #201f1f, #4b4b4b);
+	width: 1920px;
+	height: 1080px;
+	flex-shrink: 0;
+}
+
+.about {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background: linear-gradient(180deg, #2f2f2f, #4b4b4b);
+	width: 1920px;
+	height: 1080px;
+	flex-shrink: 0;
+}
+
+.maincontent {
+	position: relative;
+	width: 1920px;
+	height: 3272px;
+	left: calc(50% - 960px);
+	width: 100%;
+	height: 1080px;
+}
+
+.berkasbackIcon {
+	position: absolute;
+	top: 65px;
+	left: 364px;
+	width: 1221px;
+	height: 2169px;
+	object-fit: contain;
+}
+
+.berkasbackIcon2 {
+	position: absolute;
+	top: 2258px;
+	left: 150px;
+	width: 1620px;
+	height: 911px;
+	object-fit: cover;
+}
+
+.aboutMe {
+	position: absolute;
+	top: 211px;
+	left: 460px;
+	font-size: 60px;
+	display: flex;
+	color: #2c221a;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	width: 302px;
+	height: 100px;
+}
+
+.myProject {
+	position: absolute;
+	top: 1190px;
+	left: 447px;
+	font-size: 60px;
+	display: flex;
+	color: #2c221a;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	width: 361px;
+	height: 100px;
+}
+
+.notespaperIcon {
+	position: absolute;
+	top: 182px;
+	left: 533px;
+	width: 854px;
+	height: 854px;
+	object-fit: contain;
+}
+
+.notespaperIcon2 {
+	position: absolute;
+	top: 1853.91px;
+	left: 334.91px;
+	width: 601.7px;
+	height: 601.7px;
+	object-fit: contain;
+}
+
+.notespaperIcon3 {
+	position: absolute;
+	top: 1517.23px;
+	left: 907.23px;
+	width: 564.5px;
+	height: 564.5px;
+	object-fit: contain;
+}
+
+.notespaperIcon4 {
+	position: absolute;
+	top: 2401.85px;
+	left: 251.85px;
+	width: 709.3px;
+	height: 709.3px;
+	object-fit: contain;
+}
+
+.notespaperIcon5 {
+	position: absolute;
+	top: 2412px;
+	left: 944px;
+	width: 709.3px;
+	height: 709.3px;
+	object-fit: contain;
+}
+
+.sticker1Icon {
+	position: absolute;
+	top: 159px;
+	left: 1147px;
+	width: 316.6px;
+	height: 327.9px;
+	object-fit: contain;
+}
+
+.contact2 {
+	position: absolute;
+	top: 2312px;
+	left: 447px;
+	font-size: 60px;
+	display: flex;
+	align-items: center;
+	width: 361px;
+	height: 100px;
+	opacity: 0.8;
+}
+
+.sticker2Icon {
+	position: absolute;
+	top: 743px;
+	left: 445px;
+	width: 316.6px;
+	height: 327.9px;
+	object-fit: contain;
+}
+
+.hiImDiky {
+	position: absolute;
+	top: 340px;
+	left: 811px;
+	font-size: 20px;
+	font-weight: 600;
+	display: inline-block;
+	width: 414px;
+	height: 201px;
+}
+
+.imAMusician {
+	position: absolute;
+	top: 368px;
+	left: 811px;
+	font-weight: 500;
+	display: inline-block;
+	width: 414px;
+	height: 220px;
+}
+
+.forMeMusic {
+	position: absolute;
+	top: 542px;
+	left: 811px;
+	font-weight: 500;
+	display: inline-block;
+	width: 414px;
+	height: 46px;
+}
+
+.fotodikyIcon {
+	position: absolute;
+	top: 340px;
+	left: 598px;
+	width: 197px;
+	height: 248px;
+	object-fit: cover;
+}
+
+.fotodiky1Icon {
+	position: absolute;
+	top: 609px;
+	left: 811px;
+	width: 440px;
+	height: 264px;
+	object-fit: cover;
+}
+
+.saturnIcon {
+	position: absolute;
+	top: 582px;
+	left: 547px;
+	width: 292.4px;
+	height: 292.4px;
+	object-fit: contain;
+}
+
+.sticker3Icon {
+	position: absolute;
+	top: 853px;
+	left: 1263px;
+	width: 218px;
+	height: 234.6px;
+	object-fit: contain;
+	cursor: pointer;
+}
+
+.sticker3Icon2 {
+	position: absolute;
+	top: 1763.64px;
+	left: 487.24px;
+	width: 251.8px;
+	height: 271px;
+	object-fit: contain;
+	cursor: pointer;
+}
+
+.myprojectcontainer {
+	position: absolute;
+	top: 1290px;
+	left: 441px;
+	width: 1038px;
+	height: 362px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.myprojectcontainerChild {
+	position: absolute;
+	top: 342px;
+	left: 55px;
+	width: 330px;
+	height: 164px;
+	object-fit: cover;
+	flex-shrink: 0;
+}
+
+.sticker2Icon2 {
+	position: absolute;
+	top: 277px;
+	left: -18px;
+	width: 146.4px;
+	height: 145.1px;
+	object-fit: contain;
+	flex-shrink: 0;
+}
+
+.sticker5Icon {
+	position: absolute;
+	top: 272px;
+	left: 440px;
+	width: 111.5px;
+	height: 110.9px;
+	object-fit: contain;
+	flex-shrink: 0;
+}
+
+.stickynotes3Icon {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 337px;
+	height: 337px;
+	object-fit: cover;
+	flex-shrink: 0;
+}
+
+.stickynotes2Icon {
+	position: absolute;
+	top: 0px;
+	left: 337px;
+	width: 337px;
+	height: 337px;
+	object-fit: cover;
+	flex-shrink: 0;
+}
+
+.stickynotes1Icon {
+	position: absolute;
+	top: 0px;
+	left: 674px;
+	width: 337px;
+	height: 337px;
+	object-fit: cover;
+	flex-shrink: 0;
+}
+
+.logothegarfiedIcon {
+	position: absolute;
+	top: 101px;
+	left: 119px;
+	box-shadow: 4px 4px 12.1px 1px rgba(0, 0, 0, 0.25);
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	cursor: pointer;
+	flex-shrink: 0;
+}
+
+.logothesaturnIcon {
+	position: absolute;
+	top: 101px;
+	left: 456px;
+	box-shadow: 4px 4px 12.1px 1px rgba(0, 0, 0, 0.25);
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	cursor: pointer;
+	flex-shrink: 0;
+}
+
+.logomengutaraIcon {
+	position: absolute;
+	top: 101px;
+	left: 793px;
+	box-shadow: 4px 4px 12.1px 1px rgba(0, 0, 0, 0.25);
+	filter: blur(6px);
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	flex-shrink: 0;
+}
+
+.theGarfied {
+	position: absolute;
+	top: 220px;
+	left: 91px;
+	font-weight: 600;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 155px;
+	height: 57px;
+	opacity: 0.75;
+	flex-shrink: 0;
+}
+
+.theSaturn {
+	position: absolute;
+	top: 220px;
+	left: 428px;
+	font-weight: 800;
+	font-family: Inter;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 155px;
+	height: 57px;
+	opacity: 0.75;
+	flex-shrink: 0;
+}
+
+.comingSoon {
+	position: absolute;
+	top: 220px;
+	left: 765px;
+	display: flex;
+	font-weight: 700;
+	align-items: center;
+	justify-content: center;
+	width: 155px;
+	height: 57px;
+	opacity: 0.75;
+	flex-shrink: 0;
+}
+
+.sticker2Icon3 {
+	position: absolute;
+	top: 1731px;
+	left: 774px;
+	width: 122.1px;
+	height: 121.1px;
+	object-fit: contain;
+}
+
+.logoemailIcon {
+	position: absolute;
+	top: 2591px;
+	left: 397px;
+	width: 50px;
+	height: 50px;
+}
+
+.logoinstagramIcon {
+	position: absolute;
+	top: 2650px;
+	left: 397px;
+	width: 50px;
+	height: 50px;
+}
+
+.diknugwisgmailcom {
+	position: absolute;
+	top: 2601px;
+	left: 460px;
+	text-decoration: underline;
+	font-weight: 700;
+	color: inherit;
+	display: flex;
+	align-items: center;
+	width: 395px;
+	height: 32px;
+}
+
+.nugdik {
+	position: absolute;
+	top: 2658px;
+	left: 460px;
+	display: flex;
+	align-items: center;
+	width: 343px;
+	height: 34px;
+}
+
+.footerbox {
+	position: absolute;
+	top: 3181px;
+	left: 0px;
+	background-color: #b38a66;
+	width: 1920px;
+	height: 91px;
+}
+
+.dikyNugrohoAll {
+	position: absolute;
+	top: 3201px;
+	left: 738px;
+	font-size: 20px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	width: 444px;
+	height: 52px;
+}
+
+.sticker4Icon {
+	position: absolute;
+	top: 0px;
+	left: 269px;
+	width: 277.9px;
+	height: 287.8px;
+	object-fit: contain;
+}
+
+.fotoalatmusikIcon {
+	position: absolute;
+	top: 1647px;
+	left: 983px;
+	box-shadow: 4px 4px 8.3px rgba(0, 0, 0, 0.25);
+	width: 385px;
+	height: 321px;
+	object-fit: cover;
+}
+
+@media (max-width: 768px) {
+	.content {
+		width: 100%;
+		height: 2026px;
+		position: relative;
+		text-align: center;
+		font-size: 10px;
+		color: #000;
+		font-family: Poppins;
+	}
+
+	.contact {
+		position: absolute;
+		top: 1697px;
+		left: 0px;
+		background: linear-gradient(180deg, #201f1f, #000);
+		width: 100%;
+		height: 329px;
+	}
+
+	.project {
+		position: absolute;
+		top: 845px;
+		left: 0px;
+		background: linear-gradient(0deg, #201f1f, #4b4b4b);
+		width: 100%;
+		height: 852px;
+	}
+
+	.about {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		background: linear-gradient(180deg, #2f2f2f, #4b4b4b);
+		width: 100%;
+		height: 852px;
+	}
+
+	.footerbox {
+		position: absolute;
+		top: 1992px;
+		left: 0px;
+		background-color: #b38a66;
+		width: 100%;
+		height: 34px;
+	}
+
+	.dikyNugrohoAll {
+		position: absolute;
+		top: 1999px;
+		left: 59px;
+		font-size: 10px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 275px;
+		height: 20px;
+	}
+
+	.berkasbackParent {
+		position: absolute;
+		top: 0px;
+		left: calc(50% - 196.5px);
+		width: 393px;
+		height: 1989px;
+		text-align: left;
+	}
+
+	.berkasbackIcon {
+		position: absolute;
+		top: 5px;
+		left: -6px;
+		width: 393px;
+		height: 698px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.berkasbackIcon2 {
+		position: absolute;
+		top: 749px;
+		left: 0px;
+		width: 393px;
+		height: 698px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.notespaperIcon {
+		position: absolute;
+		top: 629.99px;
+		left: 158.02px;
+		width: 207.8px;
+		height: 207.8px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.berkasbackIcon3 {
+		position: absolute;
+		top: 1438px;
+		left: -37px;
+		width: 424px;
+		height: 551px;
+		object-fit: cover;
+		flex-shrink: 0;
+	}
+
+	.notespaperIcon2 {
+		position: absolute;
+		top: 1343px;
+		left: -1px;
+		width: 207.8px;
+		height: 207.8px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.notespaperIcon3 {
+		position: absolute;
+		top: 1517px;
+		left: -6px;
+		width: 392.9px;
+		height: 443.8px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.vectorIcon {
+		position: absolute;
+		width: 5.93%;
+		top: calc(50% + 651.5px);
+		right: 77.02%;
+		left: 17.05%;
+		max-width: 100%;
+		overflow: hidden;
+		height: 23.3px;
+		opacity: 0.8;
+		flex-shrink: 0;
+	}
+
+	.logoinstagramIcon {
+		position: absolute;
+		top: 1679px;
+		left: 63px;
+		width: 31px;
+		height: 31px;
+		flex-shrink: 0;
+	}
+
+	.diknugwisgmailcom {
+		position: absolute;
+		top: 1648px;
+		left: 103px;
+		font-size: 15px;
+		text-decoration: underline;
+		font-weight: 700;
+		color: inherit;
+		display: flex;
+		align-items: center;
+		width: 247px;
+		height: 20px;
+		flex-shrink: 0;
+	}
+
+	.nugdik {
+		position: absolute;
+		top: 1684px;
+		left: 103px;
+		font-size: 15px;
+		display: flex;
+		align-items: center;
+		width: 215px;
+		height: 21px;
+		flex-shrink: 0;
+	}
+
+	.project2 {
+		position: absolute;
+		top: 786px;
+		left: 202px;
+		font-size: 20px;
+		display: flex;
+		align-items: center;
+		width: 120px;
+		height: 33px;
+		opacity: 0.8;
+		flex-shrink: 0;
+	}
+
+	.contact2 {
+		position: absolute;
+		top: 1493px;
+		left: 45px;
+		font-size: 20px;
+		display: flex;
+		align-items: center;
+		width: 120px;
+		height: 33px;
+		opacity: 0.8;
+		flex-shrink: 0;
+	}
+
+	.fotodikyIcon {
+		position: absolute;
+		top: 63px;
+		left: 30px;
+		width: 110px;
+		height: 138px;
+		object-fit: cover;
+		flex-shrink: 0;
+	}
+
+	.sticker1Icon {
+		position: absolute;
+		top: 0px;
+		left: 293px;
+		width: 90.3px;
+		height: 111.8px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.notespaperIcon4 {
+		position: absolute;
+		top: 329px;
+		left: 18px;
+		width: 334px;
+		height: 334px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.notespaperIcon5 {
+		position: absolute;
+		top: 188px;
+		left: 163.71px;
+		width: 166px;
+		height: 166px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.fotoalatmusikIcon {
+		position: absolute;
+		top: 226px;
+		left: 186px;
+		box-shadow: 4px 4px 8.3px rgba(0, 0, 0, 0.25);
+		width: 113px;
+		height: 95px;
+		object-fit: cover;
+		flex-shrink: 0;
+	}
+
+	.sticker5Icon {
+		position: absolute;
+		top: 201.16px;
+		left: 156px;
+		width: 32.8px;
+		height: 32.6px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.hiImDiky {
+		position: absolute;
+		top: 393px;
+		left: 45px;
+		font-weight: 600;
+		display: inline-block;
+		width: 257px;
+		height: 179px;
+		flex-shrink: 0;
+	}
+
+	.saturnIcon {
+		position: absolute;
+		top: 170px;
+		left: 1px;
+		width: 184.3px;
+		height: 184.3px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.imAMusician {
+		position: absolute;
+		top: 418px;
+		left: 45px;
+		font-weight: 500;
+		display: inline-block;
+		width: 257px;
+		height: 196px;
+		flex-shrink: 0;
+	}
+
+	.forMeMusic {
+		position: absolute;
+		top: 573px;
+		left: 45px;
+		font-weight: 500;
+		display: inline-block;
+		width: 257px;
+		height: 41px;
+		flex-shrink: 0;
+	}
+
+	.fotodiky1Icon {
+		position: absolute;
+		top: 63px;
+		left: 156px;
+		width: 110px;
+		height: 138px;
+		object-fit: cover;
+		flex-shrink: 0;
+	}
+
+	.myprojectcontainer {
+		position: absolute;
+		top: 820px;
+		left: 18px;
+		width: 334px;
+		height: 362px;
+		flex-shrink: 0;
+		text-align: center;
+		font-size: 8px;
+	}
+
+	.stickynotes3Icon {
+		position: absolute;
+		top: 37px;
+		left: 8px;
+		width: 105px;
+		height: 105px;
+		object-fit: cover;
+	}
+
+	.stickynotes2Icon {
+		position: absolute;
+		top: 38px;
+		left: 115px;
+		width: 104px;
+		height: 104px;
+		object-fit: cover;
+	}
+
+	.stickynotes1Icon {
+		position: absolute;
+		top: 38px;
+		left: 221px;
+		width: 105px;
+		height: 105px;
+		object-fit: cover;
+	}
+
+	.logothegarfiedIcon {
+		position: absolute;
+		top: 69px;
+		left: 46px;
+		box-shadow: 4px 4px 12.1px 1px rgba(0, 0, 0, 0.25);
+		border-radius: 100px;
+		width: 31px;
+		height: 31px;
+		object-fit: cover;
+		cursor: pointer;
+	}
+
+	.logothesaturnIcon {
+		position: absolute;
+		top: 69px;
+		left: 152px;
+		box-shadow: 4px 4px 12.1px 1px rgba(0, 0, 0, 0.25);
+		border-radius: 100px;
+		width: 31px;
+		height: 31px;
+		object-fit: cover;
+		cursor: pointer;
+	}
+
+	.logomengutaraIcon {
+		position: absolute;
+		top: 69px;
+		left: 258px;
+		box-shadow: 4px 4px 12.1px 1px rgba(0, 0, 0, 0.25);
+		filter: blur(6px);
+		border-radius: 100px;
+		width: 31px;
+		height: 31px;
+		object-fit: cover;
+	}
+
+	.theGarfied {
+		position: absolute;
+		top: 107px;
+		left: 37px;
+		font-weight: 600;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 48px;
+		height: 17px;
+		opacity: 0.75;
+	}
+
+	.theSaturn {
+		position: absolute;
+		top: 107px;
+		left: 143px;
+		font-weight: 800;
+		font-family: Inter;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 48px;
+		height: 17px;
+		opacity: 0.75;
+	}
+
+	.comingSoon {
+		position: absolute;
+		top: 107px;
+		left: 249px;
+		display: flex;
+		font-weight: 700;
+		align-items: center;
+		justify-content: center;
+		width: 48px;
+		height: 17px;
+		opacity: 0.75;
+	}
+
+	.frameChild {
+		position: absolute;
+		top: 1011px;
+		left: 52px;
+		width: 207px;
+		height: 149px;
+		object-fit: cover;
+		flex-shrink: 0;
+	}
+
+	.sticker2Icon {
+		position: absolute;
+		top: 962.79px;
+		left: 6px;
+		width: 110.6px;
+		height: 109.6px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+	.sticker5Icon2 {
+		position: absolute;
+		top: 963px;
+		left: 220px;
+		width: 84.3px;
+		height: 83.8px;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
+
+}
